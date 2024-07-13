@@ -1,4 +1,4 @@
-package org.example;
+package com.example;
 
 import com.example.config.AppConfig;
 import com.example.model.Department;
